@@ -1,0 +1,5 @@
+/home/basti/projects/cshape/build/CMakeFiles/rebuild_cache.dir
+/home/basti/projects/cshape/build/CMakeFiles/edit_cache.dir
+/home/basti/projects/cshape/build/CMakeFiles/cshape.dir
+/home/basti/projects/cshape/build/externals/pybind11/CMakeFiles/rebuild_cache.dir
+/home/basti/projects/cshape/build/externals/pybind11/CMakeFiles/edit_cache.dir
